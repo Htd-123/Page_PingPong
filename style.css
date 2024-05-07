@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    margin-top: 50px;
+    text-align: left; /* Căn nội dung sang trái */
+  }
+  
+  .intro-section img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  .download-instructions, .game-play-instructions {
+    margin-top: 30px;
+  }
+  
+  .download-instructions h2, .game-play-instructions h2 {
+    margin-bottom: 10px;
+  }
+  
+  .download-instructions ol {
+    text-align: left; /* Căn nội dung trong thẻ ol sang trái */
+  }
+  
